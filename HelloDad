@@ -1,0 +1,12 @@
+another test file. more stupid things
+I suppose I could write a "hello world" program - or maybe "hello dad"
+
+program hello_dad
+
+class hi
+  constructor
+    print "I don't do anything"
+
+  main
+    print "hello dad"
+
